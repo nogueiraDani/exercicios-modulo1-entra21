@@ -2,7 +2,7 @@
 
 ---
 
-#### Questão 1. 
+#### [Questão 1](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao1) 
  
 Você deverá criar um código HTML que use apenas parágrafos e quebra de linhas. 
 
@@ -10,7 +10,7 @@ Você deverá criar um código HTML que use apenas parágrafos e quebra de linha
 
 ---
 
-### Questão 2. 
+### [Questão 2](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao2) 
  
 Crie um código HTML com 2 imagens das linguagens de programação que você gosta e adicionar favicons.
 
@@ -18,13 +18,13 @@ Crie um código HTML com 2 imagens das linguagens de programação que você gos
 
 ---
 
-### Questão 3. 
+### [Questão 3](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao3) 
  
 Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta.
 
 ---
 
-### Questão 4. 
+### [Questão 4](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao4)
  
 Você deverá criar um código HTML com vários emojis de sua preferência. Exemplo:
 
@@ -35,3 +35,4 @@ Carinhas
 
 > Dica: Visite esta página do W3Schools para ver uma lista completa de emojis que podem ser adicionados no HTML.
 
+> *em construção*
