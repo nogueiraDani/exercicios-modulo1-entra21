@@ -35,4 +35,14 @@ Carinhas
 
 > Dica: Visite esta página do W3Schools para ver uma lista completa de emojis que podem ser adicionados no HTML.
 
-> *em construção*
+---
+
+### [Questão 5](#)
+ 
+Você deverá criar um código HTML que contenha uma foto sua e uma breve descrição da sua atuação profissional. IMPORTANTE: Deixe de uma forma clara o seu código HTML. Como bônus, pode adicionar links para suas redes sociais ou GitHub. 
+
+---
+
+### [Questão 6](#) 
+ 
+Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto, e links para páginas da web.
