@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="exercicos, html, entra21">
+    <meta name="description" content="Exercicios de fixação do módulo 1 - Entra21">
+    <meta name="author" content="Daniela Nogueira Rampim">
+    <link rel="shortcut icon" href="../src/favicon-32x32.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Exercicios de fixação - Modulo 1</title>
+</head>
+
+<body>
+    <header>
+        <h1>Cadastro</h1>
+    </header>
+    <form id="form" action="" method="get">
+        <div id="form-nome">
+            <label for="name">Nome completo:</label>
+            <input type="text" name="name" id="name">
+        </div>
+        <div id="form-email">
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email">
+        </div>
+        <div id="form-cpf">
+            <label for="cpf">CPF</label>
+            <input type="number" name="cpf" id="cpf">
+        </div>
+        <div id="form-genero">
+            <p>Gênero</p>
+            <div id="opcoes-genero">
+                <div>
+                    <input type="radio" name="feminino" id="feminino">
+                    <label for="feminino">Feminino</label>
+                </div>
+                <div>
+                    <input type="radio" name="masculino" id="masculino">
+                    <label for="feminino">Masculino</label>
+                </div>
+            </div>
+        </div>
+        <div id="form-nascimento">
+            <label for="nascimento">Data de nascimento:</label>
+            <input type="date" name="nascimento" id="nascimento">
+        </div>
+        <div id="form-telefone">
+            <label for="telefone">Telefone</label>
+            <input type="tel" name="telefone" id="telefone">
+        </div>
+        <div id="form-opçoes">
+            <div id="opcao-notificacao">
+                <input type="radio" name="notificações" id="notificações">
+                <label for="notificações">Quer ou não receber notificações por WhatsApp </label>
+            </div>
+            <div id="opcao-ofertas">
+                <input type="radio" name="ofertas" id="ofertas">
+                <label for="ofertas">Quer ou não receber ofertas por e-mail</label>
+            </div>
+        </div>
+        <button type="submit">Enviar</button>
+    </form>
+
+</body>
+
+</html>

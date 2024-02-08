@@ -46,3 +46,17 @@ Você deverá criar um código HTML que contenha uma foto sua e uma breve descri
 ### [Questão 6](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao6) 
  
 Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto, e links para páginas da web.
+
+---
+
+### [Questão 7](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao7) 
+Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja virtual. Nesse formulário, você deve solicitar as seguintes informações ao usuário: 
+
+● Nome 
+● E-mail 
+● CPF 
+● Gênero 
+● Data de Nascimento 
+● Telefone 
+● Quer ou não receber notificações por WhatsApp 
+● Quer ou não receber ofertas por e-mail

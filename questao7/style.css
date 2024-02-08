@@ -1,0 +1,87 @@
+body {
+    font-family: "Arial";
+}
+
+header {
+    text-align: center;
+}
+
+form {
+    background-color: aquamarine;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border-style: solid;
+    border-radius: 2rem;
+    border-width: 1.5px;
+
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+
+    box-shadow: 5px 5px;
+}
+
+#form-nome,
+#form-email,
+#form-cpf,
+#form-nascimento,
+#form-telefone {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+}
+
+label {
+    font-size: small;
+    margin-bottom: 0.25rem;
+}
+
+input {
+    padding: 0.25rem;
+}
+
+#opcoes-genero {
+    display: flex;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
+
+p {
+    margin-bottom: 0;
+    font-size: small;
+    font-weight: 600;
+    font-style: italic;
+    padding-left: 0.5rem;
+}
+
+input[type=date], input[type=tel] {
+    width: 50%;
+}
+
+#form-telefone {
+    margin-bottom: 1rem;
+}
+
+#opcao-notificacao,
+#opcao-ofertas {
+    margin-bottom: 0.5rem;
+}
+
+button {
+    padding: 1rem;
+    width: 30%;
+    border-width: 1px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 1rem;
+}
+
+
+
+
+
