@@ -56,9 +56,14 @@ Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja v
 <br>
 ● E-mail
 <br> 
-● CPF 
-● Gênero 
-● Data de Nascimento 
-● Telefone 
-● Quer ou não receber notificações por WhatsApp 
+● CPF
+<br>
+● Gênero
+<br> 
+● Data de Nascimento
+<br> 
+● Telefone
+<br> 
+● Quer ou não receber notificações por WhatsApp
+<br> 
 ● Quer ou não receber ofertas por e-mail
