@@ -52,8 +52,10 @@ Você deverá criar um código HTML que contenha links para outras páginas HTML
 ### [Questão 7](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao7) 
 Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja virtual. Nesse formulário, você deve solicitar as seguintes informações ao usuário: 
 
-● Nome 
-● E-mail 
+● Nome
+<br>
+● E-mail
+<br> 
 ● CPF 
 ● Gênero 
 ● Data de Nascimento 
