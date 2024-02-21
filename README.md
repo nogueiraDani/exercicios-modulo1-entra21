@@ -10,7 +10,7 @@ Você deverá criar um código HTML que use apenas parágrafos e quebra de linha
 
 ---
 
-### [Questão 2](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao2) 
+#### [Questão 2](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao2) 
  
 Crie um código HTML com 2 imagens das linguagens de programação que você gosta e adicionar favicons.
 
@@ -18,13 +18,13 @@ Crie um código HTML com 2 imagens das linguagens de programação que você gos
 
 ---
 
-### [Questão 3](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao3) 
+#### [Questão 3](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao3) 
  
 Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta.
 
 ---
 
-### [Questão 4](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao4)
+#### [Questão 4](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao4)
  
 Você deverá criar um código HTML com vários emojis de sua preferência. Exemplo:
 
@@ -37,19 +37,19 @@ Carinhas
 
 ---
 
-### [Questão 5](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao5)
+#### [Questão 5](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao5)
  
 Você deverá criar um código HTML que contenha uma foto sua e uma breve descrição da sua atuação profissional. IMPORTANTE: Deixe de uma forma clara o seu código HTML. Como bônus, pode adicionar links para suas redes sociais ou GitHub. 
 
 ---
 
-### [Questão 6](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao6) 
+#### [Questão 6](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao6) 
  
 Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto, e links para páginas da web.
 
 ---
 
-### [Questão 7](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao7) 
+#### [Questão 7](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/questao7) 
 Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja virtual. Nesse formulário, você deve solicitar as seguintes informações ao usuário: 
 
 ● Nome
@@ -67,3 +67,10 @@ Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja v
 ● Quer ou não receber notificações por WhatsApp
 <br> 
 ● Quer ou não receber ofertas por e-mail
+
+---
+---
+
+### Exercicio de Javascript
+
+##### [➡️ Copiar opções da esquerda para a direita ](#)
