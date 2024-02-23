@@ -23,26 +23,26 @@
 
 <body>
     <div class="d-flex col-10 mx-auto my-5 justify-content-around">
-        <div class="border border-dark-subtle rounded-3 col-4 p-lg-5">
-            <form class="d-flex flex-column">
+        <div class="border border-dark-subtle rounded-3 col-5 p-lg-5">
+            <form class="d-flex flex-column" action="">
                 <label for="input-text" class="form-label text-center">Nome do curso</label>
-                <input type="text" name="input-text" id="input-curso" class="input-group-text mb-4" title="input">
+                <input type="text" name="input-text" id="input-text" class="input-group-text mb-4" title="input">
             </form>
             <div class="d-flex flex-column">
-                <button type="button" class="btn btn-outline-primary my-2">Adicionar antes</button>
-                <button type="button" class="btn btn-outline-primary my-2">Adicionar depois</button>
-                <button type="button" class="btn btn-outline-primary my-2">Remover selecionado</button>
-                <button type="button" class="btn btn-outline-primary my-2">Curso selecionado</button>
+                <button type="button" id="adicionar-antes" class="btn btn-outline-primary my-2">Adicionar antes</button>
+                <button type="button" id="adicionar-depois" class="btn btn-outline-primary my-2">Adicionar depois</button>
+                <button type="button" id="remover-selecionado" class="btn btn-outline-primary my-2">Remover selecionado</button>
+                <button type="button" id="curso-selecionado" class="btn btn-outline-primary my-2">Curso selecionado</button>
             </div>
         </div>
-        <form class="border border-dark-subtle rounded-3 col-4 p-lg-5 my-auto">
+        <form id="form-inputs" class="border border-dark-subtle rounded-3 col-5 p-lg-5 my-auto">
             <div class="bg-primary-subtle border border-primary p-3 rounded-2 my-2">
                 <input type="radio" id="html" name="fav_language" value="HTML" class="fav_language">
-                <label for="html">HTML</label><br>
+                <label for="html">HTML</label>
             </div>
             <div class="bg-primary-subtle border border-primary p-3 rounded-2 my-2">
                 <input type="radio" id="css" name="fav_language" value="CSS" class="fav_language">
-                <label for="css">CSS</label><br>
+                <label for="css">CSS</label>
             </div>
             <div class="bg-primary-subtle border border-primary p-3 rounded-2 my-2">
                 <input type="radio" id="javascript" name="fav_language" value="JavaScript" class="fav_language">
