@@ -1,0 +1,23 @@
+// Custom.scss
+$smoky: #6c587e;
+$amethystSmoke: #a795b1;
+$coldTurkey: #d2c1c7;
+$tuna: #35363b;
+$tunaLight: #b8b9be;
+$dark: black;
+
+$theme-colors: (
+    "smoke": $smoky,
+    "amethystSmoke": $amethystSmoke,
+    "coldTurkey": $coldTurkey,
+    "tuna": $tuna,
+    "tunaLight": $tunaLight,
+    "dark": $dark
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+#calc {
+    width: 300px;
+}
+
