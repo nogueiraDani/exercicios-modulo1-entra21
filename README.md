@@ -75,6 +75,6 @@ Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja v
 
 ### Exercicio de Javascript
 
-##### [➡️ Copiar opções da esquerda para a direita ]((https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/exercicios-Js/exercicio01))
+##### [➡️ Copiar opções da esquerda para a direita ](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/exercicios-Js/exercicio01)
 
 ##### [➡️ Copiar, editar e remover opções da esquerda para a direita ](https://github.com/nogueiraDani/exercicios-modulo1-entra21/tree/main/exercicios-Js/exercicio02)
